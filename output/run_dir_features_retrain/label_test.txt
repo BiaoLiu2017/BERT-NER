@@ -1,0 +1,5869 @@
+
+puzzled	BRANDCOMP	Other
+3d	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+puzzle	Other	Other
+farm	Other	Occasion_COMP
+barn	Other	KEYWORD_COMP
+set	ATTRIBUTIONCOMP	KEYWORD_COMP
+wood	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+craft	ATTRIBUTIONCOMP	Other
+construction	KEYWORD_COMP	Other
+model	KEYWORD_COMP	Other
+kit	KEYWORD_COMP	Other
+fun	Other	Other
+educational	Other	Other
+di	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+toy	Other	Other
+assemble	Other	Other
+model	Other	Other
+unfinished	Other	Other
+craft	Other	Other
+hobby	Other	Other
+puzzle	Other	Other
+to	Other	Other
+build	Other	Other
+and	Other	Other
+paint	Other	Other
+for	Other	Other
+decoration	Occasion_COMP	Other
+21	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pieces	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s	Other	BRANDCOMP
+6	Other	ATTRIBUTIONCOMP
+set	Other	ATTRIBUTIONCOMP
+dc	KEYWORD_COMP	Other
+motors	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+mini	ATTRIBUTIONCOMP	Other
+electric	ATTRIBUTIONCOMP	Other
+motor	Other	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+1500	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+with	Other	Other
+66	Other	ATTRIBUTIONCOMP
+pcs	Other	ATTRIBUTIONCOMP
+plastic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+gears	Other	Other
+aa	Other	Other
+battery	Other	Other
+holder	Other	Other
+case	Other	Other
+motor	Other	Other
+bracket	Other	Other
+shaft	Other	Other
+propeller	Other	Other
+and	Other	Other
+rocker	Other	Other
+switch	Other	Other
+for	Other	Other
+di	Occasion_COMP	Other
+toys	Group_COMP	Other
+science	Occasion_COMP	Other
+projects	Occasion_COMP	Occasion_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	BRANDCOMP
+family	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+8	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+piece	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+kit	Other	Other
+with	Other	Other
+mom	Other	Group_COMP
+dad	Other	Group_COMP
+grandparents	Other	Group_COMP
+children	Other	Group_COMP
+baby	Other	Group_COMP
+and	Other	Other
+dog	Other	Group_COMP
+100	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+natural	ATTRIBUTIONCOMP	Other
+wood	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+non	ATTRIBUTIONCOMP	Other
+paint	ATTRIBUTIONCOMP	Other
+smooth	Other	Other
+edges	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yin	BRANDCOMP	BRANDCOMP
+doll	KEYWORD_COMP	Other
+accessories	KEYWORD_COMP	Other
+and	Other	Other
+furniture	Other	KEYWORD_COMP
+sets	Other	KEYWORD_COMP
+1	ATTRIBUTIONCOMP	Other
+12	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+miniature	Other	Other
+doll	Other	Other
+house	Other	Other
+desk	Other	Other
+chair	Other	Other
+kit	Other	Other
+mini	ATTRIBUTIONCOMP	Other
+toy	Other	Other
+couch	Other	Other
+chairs	Other	Other
+for	Other	Other
+restaurant	Occasion_COMP	Occasion_COMP
+living	Occasion_COMP	Occasion_COMP
+room	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bo	BRANDCOMP	BRANDCOMP
+1	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+furniture	KEYWORD_COMP	Occasion_COMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3d	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+puzzle	Other	Other
+scale	Other	Other
+miniature	Other	Other
+models	Other	Other
+doll	Other	Other
+house	Other	Other
+di	Other	Other
+access	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cute	BRANDCOMP	BRANDCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+miniature	Other	KEYWORD_COMP
+with	Other	Other
+furniture	Other	Occasion_COMP
+di	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	Other	Other
+kit	Other	Other
+plus	Other	Other
+dust	Other	Other
+proof	Other	Other
+and	Other	Other
+music	Other	Other
+movement	Other	Other
+1	ATTRIBUTIONCOMP	Other
+24	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+creative	Occasion_COMP	Other
+room	Occasion_COMP	Other
+idea	Other	Other
+octopus	Other	Other
+burning	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cozy	Other	BRANDCOMP
+family	Other	Group_COMP
+master	Other	Other
+bedroom	Other	Occasion_COMP
+accessories	KEYWORD_COMP	KEYWORD_COMP
+children	KEYWORD_COMP	KEYWORD_COMP
+plays	KEYWORD_COMP	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+wonders	Other	Other
+premium	Other	Other
+colorful	ATTRIBUTIONCOMP	Other
+doll	Other	Other
+furniture	Other	Occasion_COMP
+for	Other	Other
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+toy	Other	Other
+dolls	Other	Other
+includes	Other	Other
+dresser	Other	Occasion_COMP
+with	Other	Other
+mirror	Other	Other
+wardrobe	Other	Other
+nightstand	Other	Occasion_COMP
+and	Other	Other
+lamp	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+snap	BRANDCOMP	BRANDCOMP
+h	Other	ATTRIBUTIONCOMP
+mini	Other	KEYWORD_COMP
+drone	Other	KEYWORD_COMP
+for	Other	Other
+kids	Group_COMP	Group_COMP
+rc	Other	Other
+nano	ATTRIBUTIONCOMP	Other
+quad	KEYWORD_COMP	Other
+w	KEYWORD_COMP	Other
+altitude	Other	Other
+hold	Other	Other
+head	Other	Other
+mode	Other	Other
+3d	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+flip	Other	Other
+one	Other	ATTRIBUTIONCOMP
+key	Other	ATTRIBUTIONCOMP
+return	Other	Other
+and	Other	Other
+speed	Other	Other
+adjustment	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cute	BRANDCOMP	BRANDCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+miniature	Other	KEYWORD_COMP
+with	Other	Other
+furniture	Other	Occasion_COMP
+di	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	Other	Other
+kit	Other	Other
+plus	Other	Other
+dust	Other	Other
+proof	Other	Other
+and	Other	Other
+music	Other	Other
+movement	Other	Other
+1	ATTRIBUTIONCOMP	Other
+24	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+creative	Occasion_COMP	Other
+room	Occasion_COMP	Other
+idea	Other	Other
+quiet	Other	Other
+time	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eu	BRANDCOMP	BRANDCOMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+rectangular	Other	Other
+mini	KEYWORD_COMP	Other
+electric	KEYWORD_COMP	Other
+1	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+240	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dc	ATTRIBUTIONCOMP	KEYWORD_COMP
+motor	Other	Other
+with	Other	Other
+84	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+plastic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+gears	Other	Other
+electronic	ATTRIBUTIONCOMP	Other
+wire	Other	Other
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+x	ATTRIBUTIONCOMP	Other
+aa	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+battery	Other	Other
+holder	Other	Other
+boat	Other	Other
+rocker	Other	Other
+switch	Other	Other
+shaft	Other	Other
+propeller	Other	Other
+for	Other	Other
+di	Occasion_COMP	Other
+science	Occasion_COMP	Other
+projects	Occasion_COMP	Occasion_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+construction	KEYWORD_COMP	Other
+toys	KEYWORD_COMP	KEYWORD_COMP
+sets	Other	KEYWORD_COMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pieces	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+mini	ATTRIBUTIONCOMP	Other
+vehicles	Other	Occasion_COMP
+including	Other	Other
+truck	Other	Occasion_COMP
+fork	Other	Other
+bull	Other	Other
+road	Other	Other
+roller	Other	Other
+ex	Other	Other
+dump	Other	Other
+truck	Other	Occasion_COMP
+tractor	Other	Occasion_COMP
+free	Other	Other
+wheeling	Other	Other
+cars	Other	Occasion_COMP
+for	Other	Other
+children	Group_COMP	Group_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+un	BRANDCOMP	BRANDCOMP
+di	Other	Other
+miniature	ATTRIBUTIONCOMP	Other
+doll	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+time	Other	Other
+apartment	Other	Occasion_COMP
+di	Other	Other
+doll	Other	Other
+kit	Other	Other
+with	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+furniture	Other	Occasion_COMP
+light	Other	Other
+gift	Other	Other
+house	Other	Other
+toy	Other	Other
+for	Other	Other
+adults	Group_COMP	Group_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kid	BRANDCOMP	BRANDCOMP
+so	Other	Other
+st	Other	Other
+mansion	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+mid	KEYWORD_COMP	Other
+century	KEYWORD_COMP	Other
+doll	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+e	Other	Other
+kraft	Other	Other
+assembly	Other	Other
+open	Other	Other
+concept	Other	Other
+wheeled	Other	Other
+base	Other	Other
+and	Other	Other
+42	Other	Other
+accessories	Other	Other
+gift	Other	Other
+for	Other	Other
+ages	Group_COMP	ATTRIBUTIONCOMP
+3	Group_COMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kid	BRANDCOMP	BRANDCOMP
+my	Other	Other
+dream	Other	Other
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+lights	Other	Other
+and	Other	Other
+sounds	Other	Other
+elevator	Other	Other
+and	Other	Other
+14	Other	Other
+accessories	Other	Other
+gift	Other	Other
+for	Other	Other
+ages	Group_COMP	ATTRIBUTIONCOMP
+3	Group_COMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+family	Other	BRANDCOMP
+pets	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+animal	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+by	Other	Other
+ha	Other	BRANDCOMP
+complete	Other	Other
+your	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dolls	Other	Other
+house	Other	Other
+with	Other	Other
+happy	Other	Other
+dog	Other	Group_COMP
+cat	Other	Group_COMP
+bunny	Other	Other
+pet	Other	Other
+set	Other	Other
+with	Other	Other
+compliment	Other	Other
+houses	Other	Occasion_COMP
+and	Other	Other
+food	Other	Other
+bowls	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cute	BRANDCOMP	BRANDCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+miniature	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+furniture	Other	Occasion_COMP
+di	Other	Other
+wooden	Other	ATTRIBUTIONCOMP
+doll	Other	Other
+kit	Other	Other
+plus	Other	Other
+dust	Other	Other
+proof	Other	Other
+and	Other	Other
+music	Other	Other
+movement	Other	Other
+1	ATTRIBUTIONCOMP	Other
+24	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+creative	Occasion_COMP	Other
+room	Occasion_COMP	Other
+idea	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ha	BRANDCOMP	BRANDCOMP
+happy	Other	Other
+family	Other	Group_COMP
+doll	Other	KEYWORD_COMP
+house	Other	Other
+kids	Group_COMP	Group_COMP
+play	Other	Other
+home	KEYWORD_COMP	Occasion_COMP
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+furniture	KEYWORD_COMP	Occasion_COMP
+accessories	Other	Other
+work	Other	Other
+out	Other	Other
+gym	Other	Occasion_COMP
+plays	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+barbie	BRANDCOMP	BRANDCOMP
+dream	KEYWORD_COMP	KEYWORD_COMP
+transforming	KEYWORD_COMP	Other
+plays	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+rec	Other	Other
+seats	Other	Other
+and	Other	Other
+working	Other	Other
+overhead	Other	Other
+compartments	Other	Other
+plus	Other	Other
+15	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pieces	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+including	Other	Other
+a	Other	Other
+puppy	Other	Other
+and	Other	Other
+a	Other	Other
+snack	Other	Other
+cart	Other	Other
+for	Other	Other
+kids	Group_COMP	Group_COMP
+3	Group_COMP	ATTRIBUTIONCOMP
+years	Group_COMP	ATTRIBUTIONCOMP
+old	Group_COMP	Other
+and	Group_COMP	Other
+up	Group_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ro	KEYWORD_COMP	BRANDCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+furniture	Other	Occasion_COMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+miniature	Other	Other
+house	Other	Other
+kit	Other	Other
+di	Other	Other
+dora	Other	Other
+loft	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+un	BRANDCOMP	BRANDCOMP
+di	Other	Other
+miniature	KEYWORD_COMP	Other
+doll	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+tiny	Other	Other
+house	Other	Other
+impression	Other	Other
+hawaii	Other	Other
+3d	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+puzzle	Other	Other
+toy	Other	Other
+gift	Other	Other
+with	Other	Other
+furniture	Other	Occasion_COMP
+dust	Other	Other
+proof	Other	Other
+led	Other	Other
+lights	Other	Other
+for	Other	Other
+adults	Group_COMP	Group_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eu	BRANDCOMP	BRANDCOMP
+18	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dc	Other	Other
+motors	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+mini	ATTRIBUTIONCOMP	Other
+electric	ATTRIBUTIONCOMP	Other
+1	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+240	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+hobby	Other	Occasion_COMP
+motor	Other	Other
+with	Other	Other
+252	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+plastic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+gears	Other	Other
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+x	ATTRIBUTIONCOMP	Other
+aa	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+battery	Other	Other
+holder	Other	Other
+wires	Other	Other
+for	Other	Other
+stem	Occasion_COMP	Other
+di	Occasion_COMP	Other
+toy	Group_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kid	BRANDCOMP	BRANDCOMP
+annabelle	Other	KEYWORD_COMP
+wooden	KEYWORD_COMP	KEYWORD_COMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+elevator	Other	Other
+balcony	Other	Other
+and	Other	Other
+17	Other	Other
+accessories	Other	Other
+gift	Other	Other
+for	Other	Other
+ages	Group_COMP	ATTRIBUTIONCOMP
+3	Group_COMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+di	Other	BRANDCOMP
+doll	KEYWORD_COMP	Other
+miniature	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+creative	Other	Other
+room	Other	Other
+with	Other	Other
+furniture	Other	Occasion_COMP
+multi	Other	Other
+window	Other	Other
+mini	Other	Other
+doll	Other	Other
+house	Other	Other
+building	Other	Other
+kit	Other	Other
+led	Other	Other
+light	Other	Other
+dust	Other	Other
+cover	Other	Other
+music	Other	Other
+box	Other	Other
+1	ATTRIBUTIONCOMP	Other
+24	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+house	Other	Other
+kit	Other	Other
+for	Other	Other
+adults	Group_COMP	Group_COMP
+girls	Group_COMP	Group_COMP
+birthday	Occasion_COMP	Group_COMP
+gift	Occasion_COMP	Other
+toy	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v	BRANDCOMP	BRANDCOMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+fun	KEYWORD_COMP	Other
+kids	Other	Group_COMP
+child	Other	Group_COMP
+room	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+play	Other	Other
+toy	Other	Other
+bunk	Other	Other
+bed	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+toy	BRANDCOMP	BRANDCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+miniature	KEYWORD_COMP	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cabinet	Other	Occasion_COMP
+mini	Other	Other
+doll	Other	Other
+furniture	Other	Occasion_COMP
+doll	Other	Other
+cupboard	Other	Occasion_COMP
+books	Other	Other
+model	Other	Other
+kids	Other	Group_COMP
+micro	ATTRIBUTIONCOMP	Other
+toys	Other	Other
+accessories	Other	Other
+gifts	Other	Other
+for	Other	Other
+play	Occasion_COMP	Occasion_COMP
+table	Occasion_COMP	Other
+decor	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crazy	BRANDCOMP	BRANDCOMP
+aaron	BRANDCOMP	BRANDCOMP
+thinking	BRANDCOMP	Other
+put	BRANDCOMP	KEYWORD_COMP
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+tin	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cosmic	KEYWORD_COMP	Other
+infinite	KEYWORD_COMP	Other
+nebula	KEYWORD_COMP	Other
+multi	ATTRIBUTIONCOMP	Other
+color	ATTRIBUTIONCOMP	Other
+sparkle	Other	Other
+glow	Other	Other
+put	Other	Other
+soft	Other	Other
+texture	Other	Other
+never	Other	Other
+dr	Other	Other
+out	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+il	BRANDCOMP	BRANDCOMP
+1	ATTRIBUTIONCOMP	Other
+12	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+doll	KEYWORD_COMP	Other
+furniture	KEYWORD_COMP	Occasion_COMP
+miniature	Other	Other
+bedroom	Other	Occasion_COMP
+complete	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+for	Other	Other
+doll	Occasion_COMP	Other
+house	Occasion_COMP	Other
+miniature	Other	Other
+accessory	Other	Other
+kids	Group_COMP	Group_COMP
+pretend	Other	Other
+toy	Other	Other
+creative	Other	Other
+birthday	Occasion_COMP	Group_COMP
+hand	Occasion_COMP	Other
+gift	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ha	BRANDCOMP	BRANDCOMP
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+house	KEYWORD_COMP	Other
+furniture	Other	Occasion_COMP
+children	Other	KEYWORD_COMP
+room	Other	Other
+with	Other	Other
+accessories	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gr	BRANDCOMP	BRANDCOMP
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+house	KEYWORD_COMP	Other
+miniature	Other	Other
+furniture	Other	Occasion_COMP
+baby	Other	Group_COMP
+room	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+little	Other	Other
+friends	Other	Other
+children	Other	Group_COMP
+nursery	Other	Occasion_COMP
+room	Other	Other
+models	Other	Other
+di	Other	Other
+assembled	Other	Other
+toys	Other	Other
+with	Other	Other
+chair	Other	Other
+bed	Other	Other
+stroll	Other	Other
+doll	Other	Other
+house	Other	Other
+accessories	Other	Other
+for	Other	Other
+todd	Group_COMP	Group_COMP
+1	Group_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imagination	BRANDCOMP	BRANDCOMP
+generation	BRANDCOMP	BRANDCOMP
+dream	Other	Other
+children	KEYWORD_COMP	Group_COMP
+bedroom	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+colorful	ATTRIBUTIONCOMP	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	Other	Other
+furniture	Other	Occasion_COMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pi	BRANDCOMP	BRANDCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+112	ATTRIBUTIONCOMP	Other
+doll	KEYWORD_COMP	Other
+miniature	KEYWORD_COMP	Other
+dining	KEYWORD_COMP	Occasion_COMP
+table	Other	Other
+chair	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+furniture	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+wood	Other	ATTRIBUTIONCOMP
+color	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nw	BRANDCOMP	BRANDCOMP
+children	Group_COMP	Group_COMP
+17	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+6	Other	Other
+rooms	Other	Occasion_COMP
+di	KEYWORD_COMP	KEYWORD_COMP
+kits	KEYWORD_COMP	KEYWORD_COMP
+assemble	Other	Other
+miniature	Other	Other
+doll	Other	Other
+house	Other	Other
+3d	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+puzzle	Other	Other
+gothic	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+happy	Other	Other
+family	Other	Group_COMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+by	Other	Other
+ha	BRANDCOMP	BRANDCOMP
+award	Other	Other
+winning	Other	Other
+doll	Other	Other
+family	Other	Group_COMP
+set	Other	Other
+unique	Other	Other
+accessory	Other	Other
+for	Other	Other
+kid	Other	Group_COMP
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dolls	Other	Other
+house	Other	Other
+imaginative	Other	Other
+play	Other	Other
+toy	Other	Other
+6	Other	Other
+family	Other	Group_COMP
+figures	Other	Other
+adults	Other	Group_COMP
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+and	Other	Other
+kids	Other	Group_COMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+multi	ATTRIBUTIONCOMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in	Other	BRANDCOMP
+set	Other	ATTRIBUTIONCOMP
+of	Other	ATTRIBUTIONCOMP
+2	Other	ATTRIBUTIONCOMP
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+armchair	KEYWORD_COMP	Other
+din	Other	Other
+lounge	Other	Occasion_COMP
+chairs	Other	Other
+dolls	Other	Other
+house	Other	Other
+furniture	Other	Occasion_COMP
+dark	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+brown	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+walnut	Other	ATTRIBUTIONCOMP
+finish	Other	Other
+1	ATTRIBUTIONCOMP	Other
+12	ATTRIBUTIONCOMP	Other
+scale	ATTRIBUTIONCOMP	Other
+medium	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+wood	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imagination	BRANDCOMP	BRANDCOMP
+generation	BRANDCOMP	BRANDCOMP
+the	Other	Other
+fully	Other	Other
+furnished	KEYWORD_COMP	KEYWORD_COMP
+bundle	KEYWORD_COMP	Other
+5	Other	ATTRIBUTIONCOMP
+sets	Other	ATTRIBUTIONCOMP
+of	Other	Other
+colorful	ATTRIBUTIONCOMP	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+doll	Other	Other
+furniture	Other	Occasion_COMP
+41	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pieces	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+my	BRANDCOMP	BRANDCOMP
+fancy	BRANDCOMP	BRANDCOMP
+life	BRANDCOMP	BRANDCOMP
+240	Other	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	KEYWORD_COMP
+furniture	KEYWORD_COMP	Occasion_COMP
+living	KEYWORD_COMP	Occasion_COMP
+room	Other	Other
+with	Other	Other
+tv	Other	Other
+dvd	Other	Other
+set	Other	Other
+and	Other	Other
+show	Other	Other
+case	Other	Other
+play	Other	Other
+set	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ha	BRANDCOMP	BRANDCOMP
+happy	BRANDCOMP	Other
+villa	BRANDCOMP	Other
+kids	Group_COMP	Group_COMP
+wooden	KEYWORD_COMP	ATTRIBUTIONCOMP
+doll	KEYWORD_COMP	Other
+house	KEYWORD_COMP	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+2	Other	Other
+story	Other	Other
+dolls	Other	Other
+villa	Other	Other
+with	Other	Other
+furniture	Other	Occasion_COMP
+and	Other	Other
+accessories	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shop	BRANDCOMP	BRANDCOMP
+su	BRANDCOMP	KEYWORD_COMP
+unique	Other	Other
+collection	Other	Other
+assortment	Other	Other
+of	Other	Other
+hand	Other	Other
+selected	Other	Other
+fully	Other	Other
+rooted	Other	Other
+live	Other	Other
+indoor	KEYWORD_COMP	Occasion_COMP
+su	KEYWORD_COMP	Other
+plants	KEYWORD_COMP	Occasion_COMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx	BRANDCOMP	BRANDCOMP
+plant	KEYWORD_COMP	KEYWORD_COMP
+terra	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+wooden	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+stand	ATTRIBUTIONCOMP	Other
+air	Other	Other
+plant	Other	Other
+bulb	Other	Other
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+vase	Other	Other
+metal	Other	ATTRIBUTIONCOMP
+sw	Other	Other
+holder	Other	Other
+retro	Other	Other
+tablet	Other	Other
+for	Other	Other
+hydro	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+3	Occasion_COMP	Other
+bulb	Occasion_COMP	Other
+vase	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+organic	Other	Other
+ready	Other	Other
+to	Other	Other
+spray	KEYWORD_COMP	Other
+orchid	KEYWORD_COMP	ATTRIBUTIONCOMP
+food	Other	Other
+mist	Other	Other
+bloom	Other	Other
+booster	Other	Other
+fe	Other	Other
+for	Other	Other
+orchid	Occasion_COMP	Other
+in	Other	Other
+pots	Other	Occasion_COMP
+plant	Other	Other
+nutrients	Other	Other
+for	Other	Other
+healthy	Occasion_COMP	Other
+flower	Occasion_COMP	Other
+re	Occasion_COMP	Other
+8	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+oz	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ec	BRANDCOMP	BRANDCOMP
+su	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+drainage	Other	Other
+tiny	ATTRIBUTIONCOMP	Other
+plant	ATTRIBUTIONCOMP	Other
+dinosaur	ATTRIBUTIONCOMP	Other
+shape	ATTRIBUTIONCOMP	Other
+flower	Other	Other
+pot	Other	Occasion_COMP
+for	Other	Other
+indoor	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+including	Other	Other
+tray	Other	Other
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sar	BRANDCOMP	BRANDCOMP
+7	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+weave	Other	Other
+pattern	Other	Other
+flower	Other	KEYWORD_COMP
+pots	Other	Occasion_COMP
+ceramic	KEYWORD_COMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	Other
+with	Other	Other
+drainage	Other	Other
+hole	Other	Other
+for	Other	Other
+indoor	Occasion_COMP	Occasion_COMP
+outdoor	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+1	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+7	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+flower	BRANDCOMP	Other
+plant	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	Occasion_COMP
+indoor	Occasion_COMP	Occasion_COMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+decorative	ATTRIBUTIONCOMP	Other
+small	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+round	ATTRIBUTIONCOMP	Other
+su	ATTRIBUTIONCOMP	Other
+cactus	Other	Other
+flower	Other	Other
+plant	Other	Other
+pot	Other	Occasion_COMP
+with	Other	Other
+tree	Other	Other
+tier	Other	Other
+bamboo	Other	ATTRIBUTIONCOMP
+stand	Other	Other
+for	Other	Other
+garden	Occasion_COMP	Occasion_COMP
+kitchen	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desk	Occasion_COMP	Other
+decorations	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yo	BRANDCOMP	BRANDCOMP
+terra	KEYWORD_COMP	ATTRIBUTIONCOMP
+ceramic	KEYWORD_COMP	ATTRIBUTIONCOMP
+plant	KEYWORD_COMP	KEYWORD_COMP
+pot	KEYWORD_COMP	Occasion_COMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cylinder	Other	Other
+modern	Other	Other
+ceramic	Other	ATTRIBUTIONCOMP
+gardening	Other	Occasion_COMP
+pots	Other	Occasion_COMP
+with	Other	Other
+drainage	Other	Other
+hole	Other	Other
+sauce	Other	Other
+for	Other	Other
+plants	Occasion_COMP	Occasion_COMP
+flower	Occasion_COMP	Other
+su	Occasion_COMP	Other
+indoor	Occasion_COMP	Occasion_COMP
+yard	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+yellow	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s	BRANDCOMP	BRANDCOMP
+cute	ATTRIBUTIONCOMP	Other
+animal	Other	Other
+shark	Other	Other
+shaped	ATTRIBUTIONCOMP	Other
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	ATTRIBUTIONCOMP	Other
+cactus	Other	Other
+flower	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+bamboo	Other	ATTRIBUTIONCOMP
+tree	Other	Other
+stand	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+blue	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tin	BRANDCOMP	BRANDCOMP
+resin	Other	ATTRIBUTIONCOMP
+cartoon	Other	Other
+su	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+plant	KEYWORD_COMP	KEYWORD_COMP
+creative	Other	Other
+cow	Other	Other
+animal	Other	Other
+cute	Other	Other
+flower	Other	Other
+pots	Other	Occasion_COMP
+bon	Other	Other
+cactus	Other	Other
+pot	Other	Other
+flowers	Other	Other
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decor	Occasion_COMP	Other
+craft	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+everyday	BRANDCOMP	BRANDCOMP
+better	BRANDCOMP	BRANDCOMP
+life	BRANDCOMP	BRANDCOMP
+cute	Other	Other
+cartoon	Other	Other
+animal	Other	Other
+elephant	Other	Other
+ceramic	Other	ATTRIBUTIONCOMP
+su	Other	Other
+cactus	Other	Other
+flower	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+plant	Other	Other
+pots	Other	Occasion_COMP
+plant	Other	Other
+container	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+petra	BRANDCOMP	BRANDCOMP
+20	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ft	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+x	ATTRIBUTIONCOMP	Other
+10	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ft	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+water	Other	Other
+rec	Other	Other
+sun	Other	Other
+sail	Other	Other
+shade	Other	Other
+durable	Other	Other
+woven	Other	Other
+outdoor	Occasion_COMP	Occasion_COMP
+patio	Occasion_COMP	Occasion_COMP
+fabric	Occasion_COMP	ATTRIBUTIONCOMP
+w	Other	Other
+up	Other	Other
+to	Other	Other
+90	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+uv	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+protection	Other	Other
+20	ATTRIBUTIONCOMP	Other
+foot	ATTRIBUTIONCOMP	Other
+sand	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ceramic	KEYWORD_COMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	Other
+cute	Other	Other
+decoration	Other	KEYWORD_COMP
+pots	Other	Occasion_COMP
+creative	Other	Other
+human	Other	Other
+head	Other	Other
+shaped	Other	Other
+small	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+mini	ATTRIBUTIONCOMP	Other
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+ceramic	Other	ATTRIBUTIONCOMP
+su	Other	Other
+pots	Other	Occasion_COMP
+for	Other	Other
+planting	Occasion_COMP	Other
+su	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+decoration	Occasion_COMP	Other
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+black	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+group	ATTRIBUTIONCOMP	Other
+c	ATTRIBUTIONCOMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+k	BRANDCOMP	BRANDCOMP
+small	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ceramic	Other	ATTRIBUTIONCOMP
+black	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+brushes	KEYWORD_COMP	KEYWORD_COMP
+plant	KEYWORD_COMP	Other
+three	ATTRIBUTIONCOMP	Other
+pots	ATTRIBUTIONCOMP	Occasion_COMP
+with	Other	Other
+drainage	Other	Other
+hole	Other	Other
+and	Other	Other
+tray	Other	Other
+for	Other	Other
+any	Other	Other
+house	Occasion_COMP	Other
+plants	Occasion_COMP	Other
+cactus	Occasion_COMP	Other
+flowers	Occasion_COMP	Other
+or	Other	Other
+herbs	Occasion_COMP	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+piece	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+gift	ATTRIBUTIONCOMP	Other
+set	ATTRIBUTIONCOMP	Other
+black	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nat	BRANDCOMP	BRANDCOMP
+ass	Other	Other
+mini	Other	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	KEYWORD_COMP
+pots	Other	KEYWORD_COMP
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desk	Occasion_COMP	Other
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+small	Other	ATTRIBUTIONCOMP
+flower	Other	Other
+pots	Other	Other
+with	Other	Other
+drainage	Other	Other
+hole	Other	Other
+with	Other	Other
+bamboo	Other	ATTRIBUTIONCOMP
+sauce	Other	Other
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+set	KEYWORD_COMP	ATTRIBUTIONCOMP
+cute	Other	Other
+cartoon	Other	Other
+animal	Other	Other
+shaped	Other	Other
+su	Other	Other
+cactus	Other	Other
+flower	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+plant	Other	Other
+pots	Other	Occasion_COMP
+plant	Other	Other
+container	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+small	Other	ATTRIBUTIONCOMP
+co	Other	Other
+husky	Other	Other
+pu	Other	Other
+panda	Other	Other
+sc	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ia	KEYWORD_COMP	BRANDCOMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+9	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+mini	Other	Other
+resin	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cute	Other	Other
+animal	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	Occasion_COMP
+cartoon	Other	Other
+su	Other	Other
+plant	Other	Other
+with	Other	Other
+drainage	Other	Other
+hole	Other	Other
+desktop	Occasion_COMP	Occasion_COMP
+dog	Other	Group_COMP
+flower	Other	Other
+container	Other	Other
+fairy	Other	Other
+garden	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t	BRANDCOMP	BRANDCOMP
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+owl	Other	Other
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	Occasion_COMP
+with	Other	Other
+bamboo	Other	ATTRIBUTIONCOMP
+tray	Other	Other
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+flowing	Other	Other
+g	Other	Other
+porcelain	Other	ATTRIBUTIONCOMP
+hand	Other	Other
+plant	Other	Other
+holder	Other	Other
+container	Other	Other
+gift	Other	Other
+for	Other	Other
+mom	Group_COMP	Group_COMP
+sister	Group_COMP	Other
+aunt	Group_COMP	Group_COMP
+best	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+everyday	BRANDCOMP	BRANDCOMP
+better	BRANDCOMP	BRANDCOMP
+life	BRANDCOMP	BRANDCOMP
+cute	Other	Other
+cartoon	Other	Other
+animal	Other	Other
+elephant	Other	Other
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	Other	Other
+cactus	Other	Other
+flower	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+plant	Other	Other
+pots	Other	Occasion_COMP
+plant	Other	Other
+container	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pro	BRANDCOMP	BRANDCOMP
+cord	KEYWORD_COMP	Other
+mist	KEYWORD_COMP	KEYWORD_COMP
+electro	KEYWORD_COMP	KEYWORD_COMP
+spray	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+touch	Other	Other
+san	Other	Other
+san	Other	Other
+full	Other	Other
+rooms	Occasion_COMP	Occasion_COMP
+in	Other	Other
+3	Other	ATTRIBUTIONCOMP
+minutes	Other	ATTRIBUTIONCOMP
+far	Other	Other
+spraying	Other	Other
+fine	Other	Other
+mist	Other	Other
+covers	Other	Other
+large	Other	Other
+areas	Other	Other
+30	Other	ATTRIBUTIONCOMP
+minute	Other	ATTRIBUTIONCOMP
+run	Other	Other
+with	Other	Other
+upgraded	Other	Other
+bottle	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ferris	KEYWORD_COMP	Other
+wheel	KEYWORD_COMP	Other
+shaped	KEYWORD_COMP	Other
+flower	KEYWORD_COMP	KEYWORD_COMP
+pot	KEYWORD_COMP	Occasion_COMP
+stands	KEYWORD_COMP	KEYWORD_COMP
+holder	KEYWORD_COMP	Other
+with	Other	Other
+6	Other	Other
+round	Other	Other
+ceramic	Other	ATTRIBUTIONCOMP
+su	Other	Other
+plant	Other	Other
+pots	Other	Occasion_COMP
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+desktop	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+gold	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resin	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	KEYWORD_COMP
+pot	KEYWORD_COMP	Occasion_COMP
+modern	Other	Other
+style	Other	Other
+humanoid	Other	Other
+desktop	Occasion_COMP	Occasion_COMP
+plant	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+small	Other	ATTRIBUTIONCOMP
+pots	Other	Occasion_COMP
+for	Other	Other
+plants	Other	Occasion_COMP
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+35	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+x	ATTRIBUTIONCOMP	Other
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+91	ATTRIBUTIONCOMP	Other
+x	ATTRIBUTIONCOMP	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+15	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hand	Other	Other
+painted	Other	Other
+flower	KEYWORD_COMP	KEYWORD_COMP
+pot	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+drain	Other	Other
+hole	Other	Other
+and	Other	Other
+tray	Other	Other
+ki	Other	BRANDCOMP
+delivery	Other	Other
+service	Other	Other
+black	Other	ATTRIBUTIONCOMP
+cats	Other	Group_COMP
+su	Other	Other
+plant	Other	Other
+pots	Other	Occasion_COMP
+gift	Other	Other
+for	Other	Other
+hay	Other	Other
+mi	Other	Other
+friends	Group_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+an	BRANDCOMP	BRANDCOMP
+mini	Other	Other
+resin	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+animal	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+creative	Other	Other
+pen	Other	KEYWORD_COMP
+pencil	Other	Other
+brush	Other	KEYWORD_COMP
+holder	Other	Other
+adorable	Other	Other
+cart	Other	Other
+co	Other	Other
+su	Other	Other
+plant	Other	Other
+desktop	Occasion_COMP	Occasion_COMP
+flower	Other	Other
+fairy	Other	Other
+garden	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+school	Occasion_COMP	Group_COMP
+gift	Other	Other
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cute	Other	KEYWORD_COMP
+deer	Other	KEYWORD_COMP
+with	Other	Other
+flower	Other	Other
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	Other
+pots	KEYWORD_COMP	Occasion_COMP
+for	Other	Other
+office	Occasion_COMP	Occasion_COMP
+house	Occasion_COMP	Other
+balcony	Occasion_COMP	Other
+landscape	Other	Other
+creative	Other	Other
+decorative	Other	Other
+flower	Other	Other
+pots	Other	Occasion_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mu	BRANDCOMP	BRANDCOMP
+anti	Other	Other
+rust	Other	Other
+sun	KEYWORD_COMP	Other
+sail	KEYWORD_COMP	Other
+shade	KEYWORD_COMP	Other
+hardware	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+poly	Other	ATTRIBUTIONCOMP
+rope	Other	Other
+heavy	Other	Other
+load	Other	Other
+capability	Other	Other
+stainless	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+steel	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+installation	Other	Other
+kit	Other	Other
+for	Other	Other
+rec	Occasion_COMP	Other
+square	Occasion_COMP	Other
+triangle	Occasion_COMP	Other
+shade	Occasion_COMP	Other
+sails	Occasion_COMP	Other
+installation	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sung	BRANDCOMP	BRANDCOMP
+hydro	KEYWORD_COMP	KEYWORD_COMP
+plant	KEYWORD_COMP	Other
+large	Other	Other
+garden	Other	Occasion_COMP
+bowl	Other	Other
+micro	Other	Other
+landscape	Other	Other
+su	Other	Other
+pot	Other	Occasion_COMP
+15	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+diameter	Other	Other
+0	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+thick	Other	Other
+big	Other	Other
+water	Other	Other
+lily	Other	Other
+container	Other	Other
+resin	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+marble	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+texture	ATTRIBUTIONCOMP	Other
+functional	Other	Other
+mini	Other	Other
+fish	Other	Other
+pond	Other	Other
+fountain	Other	Other
+bird	Other	Other
+bath	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+message	BRANDCOMP	BRANDCOMP
+flower	Other	KEYWORD_COMP
+plant	Other	KEYWORD_COMP
+animal	KEYWORD_COMP	Other
+pot	KEYWORD_COMP	Occasion_COMP
+ak	Other	Other
+dog	Other	Group_COMP
+su	Other	Other
+plant	Other	Other
+container	Other	Other
+holder	Other	Other
+for	Other	Other
+office	Occasion_COMP	Occasion_COMP
+table	Occasion_COMP	Other
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bc	BRANDCOMP	BRANDCOMP
+mini	Other	Other
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+cute	Other	Other
+animal	Other	Other
+shaped	Other	Other
+cartoon	Other	Other
+home	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+vase	Other	KEYWORD_COMP
+flower	KEYWORD_COMP	Other
+pots	KEYWORD_COMP	Occasion_COMP
+cat	Group_COMP	Group_COMP
+shape	Other	Other
+plant	Other	Other
+for	Other	Other
+su	Other	Other
+plant	Other	Other
+cactus	Other	Other
+flower	Other	Other
+smile	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ze	BRANDCOMP	BRANDCOMP
+15	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+7	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+inch	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+bon	KEYWORD_COMP	Other
+training	KEYWORD_COMP	Occasion_COMP
+pots	KEYWORD_COMP	KEYWORD_COMP
+square	Other	Other
+plastic	Other	ATTRIBUTIONCOMP
+plants	Other	Occasion_COMP
+growing	Other	Other
+pots	Other	Occasion_COMP
+flower	Other	Other
+su	Other	Other
+pots	Other	Occasion_COMP
+container	Other	Other
+with	Other	Other
+15	Other	Other
+humidity	Other	Other
+tray	Other	Other
+for	Other	Other
+garden	Occasion_COMP	Occasion_COMP
+yard	Occasion_COMP	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+porch	Occasion_COMP	Other
+balcony	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v	BRANDCOMP	BRANDCOMP
+shine	BRANDCOMP	BRANDCOMP
+su	KEYWORD_COMP	Other
+plant	KEYWORD_COMP	Other
+hand	Other	Other
+creative	Other	Other
+flower	Other	KEYWORD_COMP
+decoration	Other	Other
+ornaments	Other	Other
+cute	Other	Other
+ceramic	Other	ATTRIBUTIONCOMP
+flower	Other	Other
+su	Other	Other
+pot	Other	Occasion_COMP
+with	Other	Other
+drainage	Other	Other
+suitable	Other	Other
+for	Other	Other
+flower	Occasion_COMP	Other
+shops	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+life	Occasion_COMP	Other
+cafes	Occasion_COMP	Occasion_COMP
+wedding	Occasion_COMP	Occasion_COMP
+venues	Occasion_COMP	Other
+etc	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+tree	KEYWORD_COMP	Other
+stump	KEYWORD_COMP	Other
+su	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	Occasion_COMP
+plant	KEYWORD_COMP	Other
+with	Other	Other
+drainage	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ceramic	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+su	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+indoor	Occasion_COMP	Occasion_COMP
+plants	Other	Other
+flower	Other	Other
+cute	Other	Other
+small	Other	ATTRIBUTIONCOMP
+flower	Other	Other
+pots	Other	Occasion_COMP
+plant	Other	Other
+pots	Other	Occasion_COMP
+for	Other	Other
+office	Occasion_COMP	Occasion_COMP
+kitchen	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+decor	Other	Other
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+plants	Other	Occasion_COMP
+not	Other	Other
+included	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+su	KEYWORD_COMP	KEYWORD_COMP
+plant	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+drainage	Other	Other
+cool	Other	Other
+short	Other	Other
+hair	Other	Other
+girl	Other	Group_COMP
+plant	Other	Other
+creative	Other	Other
+resin	Other	ATTRIBUTIONCOMP
+or	Other	Other
+flower	Other	Other
+pot	Other	Occasion_COMP
+pencil	Other	Other
+holder	Other	Other
+pen	Other	Other
+pot	Other	Occasion_COMP
+with	Other	Other
+hole	Other	Other
+christmas	Occasion_COMP	Occasion_COMP
+birthday	Occasion_COMP	Group_COMP
+gift	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+decoration	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+decorative	Other	Other
+animal	Other	Other
+su	KEYWORD_COMP	KEYWORD_COMP
+plant	KEYWORD_COMP	KEYWORD_COMP
+pots	KEYWORD_COMP	Occasion_COMP
+creative	Other	Other
+resin	Other	ATTRIBUTIONCOMP
+indoor	Occasion_COMP	Occasion_COMP
+plant	Other	Other
+flower	Other	Other
+pot	Other	Occasion_COMP
+office	Occasion_COMP	Occasion_COMP
+home	Occasion_COMP	Occasion_COMP
+garden	Occasion_COMP	Occasion_COMP
+pot	Other	Occasion_COMP
+decoration	Other	Other
+ideal	Other	Other
+for	Other	Other
+raising	Other	Other
+su	Other	Other
+ca	Other	Other
+artificial	Other	Other
+plants	Other	Occasion_COMP
+penguin	Other	Other
+family	Other	Group_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ann	BRANDCOMP	BRANDCOMP
+school	Other	Group_COMP
+station	Other	Other
+vintage	Other	Other
+feather	Other	ATTRIBUTIONCOMP
+qui	KEYWORD_COMP	Other
+dip	KEYWORD_COMP	Other
+fountain	KEYWORD_COMP	Other
+pen	KEYWORD_COMP	Other
+call	Other	Other
+writing	Other	Other
+station	Other	Other
+supply	Other	Other
+for	Other	Other
+middle	Occasion_COMP	Other
+high	Occasion_COMP	Other
+school	Occasion_COMP	Group_COMP
+office	Occasion_COMP	Occasion_COMP
+college	Group_COMP	Group_COMP
+student	Group_COMP	Group_COMP
+girl	Group_COMP	Group_COMP
+boy	Group_COMP	Group_COMP
+adult	Group_COMP	Group_COMP
+big	ATTRIBUTIONCOMP	Other
+red	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mis	BRANDCOMP	BRANDCOMP
+writing	Other	Other
+ink	Other	Other
+qui	KEYWORD_COMP	Other
+pens	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+7	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+set	ATTRIBUTIONCOMP	Other
+hand	Other	Other
+floral	Other	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dip	Other	Other
+pen	Other	Other
+set	Other	Other
+for	Other	Other
+school	Occasion_COMP	Group_COMP
+station	Occasion_COMP	Other
+gifts	Occasion_COMP	Other
+art	Occasion_COMP	Other
+decoration	Occasion_COMP	Other
+supplies	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+van	BRANDCOMP	BRANDCOMP
+6	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+mini	KEYWORD_COMP	Other
+pill	KEYWORD_COMP	Other
+shaped	KEYWORD_COMP	Other
+highlight	KEYWORD_COMP	KEYWORD_COMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+writing	Occasion_COMP	Other
+cute	Occasion_COMP	Other
+face	Occasion_COMP	Other
+graffiti	Other	Other
+marker	Other	Other
+pen	Other	Other
+korean	Other	Other
+station	Other	Other
+school	Occasion_COMP	Group_COMP
+office	Occasion_COMP	Occasion_COMP
+supplies	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sam	BRANDCOMP	BRANDCOMP
+12	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+soft	Other	Other
+cover	Other	Other
+mini	KEYWORD_COMP	Other
+journals	KEYWORD_COMP	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+x	ATTRIBUTIONCOMP	Other
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+gift	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+ass	ATTRIBUTIONCOMP	Other
+rainbow	ATTRIBUTIONCOMP	Other
+color	ATTRIBUTIONCOMP	Other
+and	Other	Other
+has	Other	Other
+32	Other	Other
+sheets	Other	Other
+64	Other	ATTRIBUTIONCOMP
+color	Other	ATTRIBUTIONCOMP
+lined	Other	Other
+pages	Other	Other
+with	Other	Other
+a	Other	Other
+white	Other	ATTRIBUTIONCOMP
+storage	Other	Other
+box	Other	Other
+223	Other	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dip	KEYWORD_COMP	Other
+pen	KEYWORD_COMP	Other
+ink	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+call	Other	Other
+dip	Other	Other
+pens	Other	Other
+rainbow	Other	Other
+crystal	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+call	Other	Other
+pen	Other	Other
+and	Other	Other
+ink	Other	Other
+set	Other	Other
+with	Other	Other
+12	Other	Other
+colorful	Other	Other
+ink	Other	Other
+cal	Other	Other
+kits	Other	Other
+for	Other	Other
+art	Occasion_COMP	Other
+writing	Occasion_COMP	Other
+signatures	Occasion_COMP	Other
+decoration	Occasion_COMP	Other
+gift	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ny	BRANDCOMP	BRANDCOMP
+100	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glitter	KEYWORD_COMP	KEYWORD_COMP
+gel	KEYWORD_COMP	ATTRIBUTIONCOMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+adult	Occasion_COMP	Group_COMP
+coloring	Occasion_COMP	Other
+kid	Occasion_COMP	Group_COMP
+doo	Occasion_COMP	Other
+scrap	Occasion_COMP	Other
+booking	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+writing	Occasion_COMP	Other
+bullet	Occasion_COMP	Other
+journal	Occasion_COMP	Other
+and	Occasion_COMP	Other
+sketch	Occasion_COMP	Other
+with	Other	Other
+silk	Other	ATTRIBUTIONCOMP
+travel	Other	Occasion_COMP
+case	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+magic	Other	BRANDCOMP
+practice	KEYWORD_COMP	KEYWORD_COMP
+copy	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+kids	Group_COMP	Group_COMP
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+english	Other	Other
+study	Other	Other
+work	Other	Other
+re	Other	Other
+children	Other	Other
+call	Other	Other
+letter	Other	Other
+tracing	Other	Other
+paper	Other	ATTRIBUTIONCOMP
+mathematical	Other	Other
+drawing	Other	Other
+set	Other	Other
+call	Other	Other
+paper	Other	ATTRIBUTIONCOMP
+to	Other	Other
+teach	Other	Other
+kids	Group_COMP	Group_COMP
+how	Other	Other
+to	Other	Other
+writing	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+you	BRANDCOMP	BRANDCOMP
+green	Other	ATTRIBUTIONCOMP
+leaf	Other	Other
+like	Other	Other
+grass	Other	ATTRIBUTIONCOMP
+blade	Other	Other
+silicon	KEYWORD_COMP	ATTRIBUTIONCOMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+neutral	Other	Other
+pen	Other	KEYWORD_COMP
+with	Other	Other
+cover	Other	Other
+and	Other	Other
+pen	Other	Other
+holder	Other	Other
+easy	Other	Other
+flow	Other	Other
+black	Other	ATTRIBUTIONCOMP
+ink	Other	Other
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+25	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pieces	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+hand	Other	Other
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dip	KEYWORD_COMP	KEYWORD_COMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+clear	Other	Other
+crystal	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pen	Other	Other
+high	Other	Other
+bo	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+call	Other	Other
+signature	Other	Other
+pen	Other	Other
+for	Other	Other
+writing	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+decoration	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eco	Other	Other
+friendly	Other	Other
+pens	Other	KEYWORD_COMP
+environmental	Other	Other
+protection	Other	Other
+paper	Other	ATTRIBUTIONCOMP
+material	Other	Other
+medium	Other	ATTRIBUTIONCOMP
+point	Other	Other
+writing	Other	Other
+gel	KEYWORD_COMP	ATTRIBUTIONCOMP
+ink	KEYWORD_COMP	Other
+pen	KEYWORD_COMP	Other
+set	KEYWORD_COMP	Other
+creative	Other	Other
+products	Other	Other
+for	Other	Other
+journalism	Occasion_COMP	Other
+writing	Occasion_COMP	Other
+office	Occasion_COMP	Occasion_COMP
+supplies	Occasion_COMP	Other
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+10	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+beige	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+crystal	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dip	KEYWORD_COMP	Other
+pen	KEYWORD_COMP	Other
+ink	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+dip	Other	Other
+pen	Other	Other
+with	Other	Other
+12	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+color	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ink	Other	Other
+bottles	Other	Other
+for	Other	Other
+art	Occasion_COMP	Other
+writing	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+call	Occasion_COMP	Other
+great	Occasion_COMP	Other
+for	Other	Other
+gift	Occasion_COMP	Other
+giving	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30	ATTRIBUTIONCOMP	Other
+luxury	ATTRIBUTIONCOMP	Other
+colors	ATTRIBUTIONCOMP	Other
+of	Other	Other
+ultra	ATTRIBUTIONCOMP	Other
+extra	ATTRIBUTIONCOMP	Other
+fine	ATTRIBUTIONCOMP	Other
+large	ATTRIBUTIONCOMP	Other
+and	Other	Other
+chunk	ATTRIBUTIONCOMP	Other
+non	Other	Other
+toxic	Other	Other
+glitter	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+heart	Other	Other
+star	Other	Other
+shape	Other	Other
+for	Other	Other
+slim	Occasion_COMP	Other
+party	Occasion_COMP	Occasion_COMP
+invitation	Occasion_COMP	Other
+lip	Occasion_COMP	Other
+gloss	Occasion_COMP	Other
+face	Occasion_COMP	Other
+body	Occasion_COMP	Other
+nail	Occasion_COMP	Other
+arts	Occasion_COMP	Other
+festival	Occasion_COMP	Occasion_COMP
+and	Occasion_COMP	Other
+child	Occasion_COMP	Other
+fun	Occasion_COMP	Other
+craft	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resin	Other	BRANDCOMP
+accessories	Other	BRANDCOMP
+most	BRANDCOMP	BRANDCOMP
+90	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+resin	KEYWORD_COMP	ATTRIBUTIONCOMP
+jewelry	KEYWORD_COMP	Other
+making	KEYWORD_COMP	Other
+supplies	KEYWORD_COMP	KEYWORD_COMP
+kit	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+dry	Other	Other
+flowers	Other	Other
+gold	Other	ATTRIBUTIONCOMP
+leaf	Other	Other
+glitter	Other	Other
+my	Other	ATTRIBUTIONCOMP
+fl	Other	Other
+fruit	Other	Other
+slices	Other	Other
+mermaid	Other	Other
+beads	Other	Other
+cat	Other	Group_COMP
+stick	Other	Other
+art	Other	Other
+craft	Other	Other
+glitter	Other	Other
+for	Other	Other
+nail	Occasion_COMP	Other
+art	Occasion_COMP	Other
+and	Occasion_COMP	Other
+craft	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+es	BRANDCOMP	BRANDCOMP
+3	ATTRIBUTIONCOMP	Other
+blue	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+call	KEYWORD_COMP	Other
+pens	KEYWORD_COMP	KEYWORD_COMP
+crystal	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+glass	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+dip	Other	Other
+pen	Other	Other
+and	Other	Other
+ink	Other	KEYWORD_COMP
+set	Other	Other
+art	Other	Other
+supplies	Other	Other
+for	Other	Other
+signatures	Occasion_COMP	Other
+begin	Group_COMP	Group_COMP
+journal	Occasion_COMP	Other
+lettering	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+gift	Occasion_COMP	Other
+decoration	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+original	BRANDCOMP	Other
+station	BRANDCOMP	Other
+glitter	KEYWORD_COMP	Other
+shake	KEYWORD_COMP	Other
+jars	KEYWORD_COMP	Other
+extra	Other	Other
+fine	Other	Other
+powder	Other	Other
+24	ATTRIBUTIONCOMP	Other
+multi	ATTRIBUTIONCOMP	Other
+color	ATTRIBUTIONCOMP	Other
+ass	Other	KEYWORD_COMP
+set	Other	KEYWORD_COMP
+works	Other	Other
+for	Other	Other
+slim	Occasion_COMP	Other
+school	Occasion_COMP	Group_COMP
+and	Occasion_COMP	Other
+children	Occasion_COMP	Group_COMP
+projects	Occasion_COMP	Occasion_COMP
+perfect	Other	Other
+for	Other	Other
+home	Occasion_COMP	Occasion_COMP
+decorations	Occasion_COMP	Other
+face	Occasion_COMP	Other
+paint	Occasion_COMP	Other
+nails	Occasion_COMP	Other
+24	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pcs	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+elmer	BRANDCOMP	BRANDCOMP
+rainbow	KEYWORD_COMP	Other
+glitter	KEYWORD_COMP	Other
+glue	KEYWORD_COMP	Other
+pen	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+ass	ATTRIBUTIONCOMP	Other
+colors	ATTRIBUTIONCOMP	Other
+0	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+356	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+ounce	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+each	Other	Other
+31	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+count	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+great	Other	Other
+for	Other	Other
+making	Occasion_COMP	Other
+slim	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+outline	KEYWORD_COMP	KEYWORD_COMP
+metallic	KEYWORD_COMP	ATTRIBUTIONCOMP
+markers	KEYWORD_COMP	KEYWORD_COMP
+12	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+colors	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+double	Other	Other
+line	Other	Other
+outline	Other	Other
+pens	Other	Other
+glitter	Other	Other
+drawing	Other	Other
+pens	Other	Other
+for	Other	Other
+gift	Occasion_COMP	Other
+card	Occasion_COMP	Other
+making	Occasion_COMP	Other
+scrap	Occasion_COMP	Other
+di	Occasion_COMP	Other
+art	Occasion_COMP	Other
+crafts	Occasion_COMP	Other
+birthday	Occasion_COMP	Group_COMP
+christmas	Occasion_COMP	Occasion_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+pack	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+slim	KEYWORD_COMP	Other
+making	KEYWORD_COMP	KEYWORD_COMP
+kits	KEYWORD_COMP	KEYWORD_COMP
+supplies	Other	Other
+gold	Other	ATTRIBUTIONCOMP
+leaf	Other	Other
+foam	Other	ATTRIBUTIONCOMP
+balls	Other	Other
+glitter	Other	Other
+shake	Other	Other
+jars	Other	Other
+fish	Other	Other
+beads	Other	Other
+fruit	Other	Other
+slices	Other	Other
+fake	Other	Other
+sp	Other	Other
+glitter	Other	Other
+se	Other	ATTRIBUTIONCOMP
+accessories	Other	Other
+sugar	Other	ATTRIBUTIONCOMP
+papers	Other	Other
+slim	Other	Other
+kits	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+water	KEYWORD_COMP	Other
+brush	KEYWORD_COMP	KEYWORD_COMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+by	Other	Other
+gen	BRANDCOMP	BRANDCOMP
+set	Other	ATTRIBUTIONCOMP
+of	Other	ATTRIBUTIONCOMP
+20	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+premium	ATTRIBUTIONCOMP	Other
+colors	ATTRIBUTIONCOMP	Other
+real	Other	Other
+brush	Other	Other
+tips	Other	Other
+no	Other	Other
+mess	Other	Other
+storage	Other	Other
+case	Other	Other
+wash	Other	Other
+non	Other	Other
+markers	Other	Other
+portable	Other	Other
+painting	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+glitter	Other	KEYWORD_COMP
+gel	KEYWORD_COMP	ATTRIBUTIONCOMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+by	Other	Other
+color	BRANDCOMP	BRANDCOMP
+tech	BRANDCOMP	BRANDCOMP
+set	Other	ATTRIBUTIONCOMP
+of	Other	ATTRIBUTIONCOMP
+50	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+individual	ATTRIBUTIONCOMP	Other
+colors	ATTRIBUTIONCOMP	Other
+40	Other	ATTRIBUTIONCOMP
+more	Other	Other
+ink	Other	Other
+largest	Other	Other
+non	Other	Other
+toxic	Other	Other
+artist	Other	Other
+quality	Other	Other
+glitter	Other	Other
+set	Other	Other
+by	Other	Other
+color	BRANDCOMP	BRANDCOMP
+tech	BRANDCOMP	BRANDCOMP
+perfect	Other	Other
+for	Other	Other
+adult	Occasion_COMP	Group_COMP
+coloring	Occasion_COMP	Other
+books	Occasion_COMP	Other
+etc	Other	Other
+great	Other	Other
+gift	Other	Other
+idea	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+96	Other	ATTRIBUTIONCOMP
+color	Other	ATTRIBUTIONCOMP
+artist	Other	Other
+gel	KEYWORD_COMP	ATTRIBUTIONCOMP
+pen	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+includes	Other	Other
+24	Other	Other
+glitter	Other	Other
+gel	Other	ATTRIBUTIONCOMP
+pens	Other	Other
+12	Other	Other
+metallic	Other	ATTRIBUTIONCOMP
+6	Other	Other
+paste	Other	ATTRIBUTIONCOMP
+6	Other	Other
+neon	Other	Other
+plus	Other	Other
+48	Other	Other
+matching	Other	Other
+color	Other	Other
+ref	Other	Other
+more	Other	Other
+ink	Other	Other
+largest	Other	Other
+non	Other	Other
+toxic	Other	Other
+art	Other	Other
+neon	Other	Other
+pen	Other	Other
+for	Other	Other
+adults	Occasion_COMP	Group_COMP
+coloring	Occasion_COMP	Other
+books	Occasion_COMP	Other
+craft	Occasion_COMP	Other
+doo	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qui	KEYWORD_COMP	Other
+feather	KEYWORD_COMP	ATTRIBUTIONCOMP
+pen	KEYWORD_COMP	KEYWORD_COMP
+set	KEYWORD_COMP	KEYWORD_COMP
+with	Other	Other
+ink	Other	Other
+english	Other	Other
+call	Other	Other
+dip	Other	Other
+pen	Other	Other
+writing	Other	Other
+ink	Other	Other
+set	Other	Other
+with	Other	Other
+6	Other	Other
+replacement	Other	Other
+ni	Other	Other
+call	Other	Other
+set	Other	Other
+for	Other	Other
+begin	Group_COMP	Group_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+coloration	BRANDCOMP	BRANDCOMP
+chu	KEYWORD_COMP	Other
+markers	KEYWORD_COMP	KEYWORD_COMP
+set	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+of	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+8	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+8	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+colors	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+conical	Other	Other
+tip	Other	Other
+coloring	Occasion_COMP	Other
+paper	Occasion_COMP	ATTRIBUTIONCOMP
+kids	Occasion_COMP	Group_COMP
+posters	Occasion_COMP	Other
+drawing	Occasion_COMP	Other
+bold	Occasion_COMP	Other
+colors	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+classroom	Occasion_COMP	Occasion_COMP
+school	Occasion_COMP	Group_COMP
+supplies	Occasion_COMP	Other
+art	Occasion_COMP	Other
+supplies	Occasion_COMP	Other
+craft	Occasion_COMP	Other
+projects	Occasion_COMP	Occasion_COMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cot	BRANDCOMP	BRANDCOMP
+global	BRANDCOMP	Other
+night	KEYWORD_COMP	KEYWORD_COMP
+light	KEYWORD_COMP	KEYWORD_COMP
+plug	Other	Other
+in	Other	Other
+energy	Other	Other
+efficient	Other	Other
+decorative	Other	Other
+socket	Other	Other
+lamp	Other	Other
+manual	Other	Other
+on	Other	Other
+off	Other	Other
+portable	Other	Other
+light	Other	Other
+for	Other	Other
+stairway	Occasion_COMP	Other
+bedroom	Occasion_COMP	Occasion_COMP
+bathroom	Occasion_COMP	Occasion_COMP
+marine	Other	ATTRIBUTIONCOMP
+life	Other	Other
+theme	Other	Other
+accessory	Other	Other
+home	Occasion_COMP	Occasion_COMP
+kitchen	Occasion_COMP	Occasion_COMP
+decor	Occasion_COMP	Other
+octopus	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nu	BRANDCOMP	BRANDCOMP
+japanese	KEYWORD_COMP	Other
+anime	KEYWORD_COMP	Other
+3d	KEYWORD_COMP	ATTRIBUTIONCOMP
+led	KEYWORD_COMP	KEYWORD_COMP
+night	KEYWORD_COMP	KEYWORD_COMP
+light	KEYWORD_COMP	KEYWORD_COMP
+usb	Other	Other
+table	Other	Other
+sleep	Other	Group_COMP
+lamp	Other	Other
+home	Occasion_COMP	Occasion_COMP
+decor	Occasion_COMP	Other
+child	Group_COMP	Group_COMP
+boy	Group_COMP	Group_COMP
+kid	Group_COMP	Group_COMP
+bedroom	Other	Occasion_COMP
+lamps	Other	Other
+toys	Other	Other
+holiday	Occasion_COMP	Occasion_COMP
+christmas	Occasion_COMP	Occasion_COMP
+easter	Occasion_COMP	Occasion_COMP
+gift	Other	Other
+gift	Other	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+birch	BRANDCOMP	ATTRIBUTIONCOMP
+mini	Other	Other
+portable	Other	Other
+mist	Other	KEYWORD_COMP
+empty	Other	Other
+spray	KEYWORD_COMP	KEYWORD_COMP
+mister	KEYWORD_COMP	Other
+for	Other	Other
+personal	Occasion_COMP	Other
+beauty	Occasion_COMP	Other
+care	Occasion_COMP	Other
+or	Other	Other
+craft	Occasion_COMP	Other
+10	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+4	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+p	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gel	KEYWORD_COMP	KEYWORD_COMP
+pens	KEYWORD_COMP	KEYWORD_COMP
+for	Other	Other
+kids	Group_COMP	Group_COMP
+mini	Other	Other
+20	Other	Other
+glitter	ATTRIBUTIONCOMP	Other
+colored	ATTRIBUTIONCOMP	Other
+gel	Other	ATTRIBUTIONCOMP
+pens	Other	Other
+with	Other	Other
+maxi	Other	Other
+ink	Other	Other
+carry	Other	Other
+case	Other	Other
+ideal	Other	Other
+for	Other	Other
+party	Occasion_COMP	Occasion_COMP
+favors	Occasion_COMP	Other
+school	Occasion_COMP	Group_COMP
+bags	Occasion_COMP	Other
+home	Occasion_COMP	Occasion_COMP
+learning	Occasion_COMP	Other
+perfect	Other	Other
+gift	Other	Other
+for	Other	Other
+kids	Occasion_COMP	Group_COMP
+art	Occasion_COMP	Other
+and	Other	Other
+instant	Occasion_COMP	Other
+inspiration	Occasion_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+co	BRANDCOMP	BRANDCOMP
+rep	Other	KEYWORD_COMP
+fog	Other	KEYWORD_COMP
+terra	Other	Other
+humid	KEYWORD_COMP	Other
+fog	Other	Other
+machine	Other	Other
+mister	Other	Other
+3	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+large	ATTRIBUTIONCOMP	Other
+size	ATTRIBUTIONCOMP	Other
+ideal	Other	Other
+for	Other	Other
+pal	Group_COMP	Other
+viva	Group_COMP	Other
+reptiles	Group_COMP	Other
+amp	Group_COMP	Other
+her	Group_COMP	Other
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ito	BRANDCOMP	BRANDCOMP
+air	Other	Other
+special	Other	Other
+edition	Other	Other
+smart	Other	Other
+ito	Other	BRANDCOMP
+sport	Other	Occasion_COMP
+round	Other	Other
+smart	Other	Other
+replacement	Other	Other
+usb	KEYWORD_COMP	Other
+charge	KEYWORD_COMP	Other
+cable	KEYWORD_COMP	Other
+compatible	Other	Other
+only	Other	Other
+with	Other	Other
+ito	Occasion_COMP	BRANDCOMP
+air	Occasion_COMP	Other
+se	Occasion_COMP	Other
+smart	Occasion_COMP	Other
+ito	Occasion_COMP	BRANDCOMP
+sport	Occasion_COMP	Occasion_COMP
+round	Occasion_COMP	Other
+smart	Occasion_COMP	Other
+white	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+5	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+feet	ATTRIBUTIONCOMP	ATTRIBUTIONCOMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
