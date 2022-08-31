@@ -205,12 +205,12 @@ class DataProcessor(object):
         rf.seek(0)
         for line in rf:
             if line.strip():
-                word_list = line.strip().split(' ')
+                word_list = line.strip().split(' ')#puzzled 4 4 4 BRANDCOMP
                 for i, w in enumerate(word_list):
                     lines[i].append(w)
             else:
                 for w_list in lines:
-                    res.append(' '.join(w_list))
+                    res.append(' '.join(w_list))#['w1 w2 ...', '4,4,4...', '4,4,4...', 'O,O,...']
                 result.append(res)
                 res = []
                 lines = [[] for i in range(length)]
@@ -245,7 +245,7 @@ class NerProcessor(DataProcessor):
 
     def _create_example(self, lines, set_type):
         examples = []
-        for (i, line) in enumerate(lines):
+        for (i, line) in enumerate(lines):#['w1 w2 ...', '4,4,4...', '4,4,4...', 'O,O,...']
             guid = "%s-%s" % (set_type, i)
             texts = tokenization.convert_to_unicode(line[0])
             feature1 = tokenization.convert_to_unicode(line[1])
@@ -460,19 +460,19 @@ def crf_loss(logits,labels,mask,num_labels,mask2len):
     return loss,transition
 
 def softmax_layer(logits,labels,num_labels,mask):
-    logits = tf.reshape(logits, [-1, num_labels])
-    labels = tf.reshape(labels, [-1])
-    mask = tf.cast(mask,dtype=tf.float32)
-    one_hot_labels = tf.one_hot(labels, depth=num_labels, dtype=tf.float32)
-    loss = tf.losses.softmax_cross_entropy(logits=logits,onehot_labels=one_hot_labels)
-    loss *= tf.reshape(mask, [-1])
+    logits = tf.reshape(logits, [-1, num_labels])#64*64, 10
+    labels = tf.reshape(labels, [-1])#64*64
+    mask = tf.cast(mask,dtype=tf.float32)#64
+    one_hot_labels = tf.one_hot(labels, depth=num_labels, dtype=tf.float32)#[64*64, 10]
+    loss = tf.losses.softmax_cross_entropy(logits=logits,onehot_labels=one_hot_labels)#[64*64,]
+    loss *= tf.reshape(mask, [-1])#即只计算mask为1的loss，PAD位置的loss不计算
     loss = tf.reduce_sum(loss)
     total_size = tf.reduce_sum(mask)
     total_size += 1e-12 # to avoid division by 0 for all-0 weights
     loss /= total_size
     # predict not mask we could filtered it in the prediction part.
-    probabilities = tf.math.softmax(logits, axis=-1)
-    predict = tf.math.argmax(probabilities, axis=-1)
+    probabilities = tf.math.softmax(logits, axis=-1)#[64, 64, 10]
+    predict = tf.math.argmax(probabilities, axis=-1)#[64, 64]
     return loss, predict
 
 
@@ -487,7 +487,7 @@ def create_model(bert_config, is_training, input_ids, mask,
         use_one_hot_embeddings=use_one_hot_embeddings
         )
 
-    output_layer = model.get_sequence_output()
+    output_layer = model.get_sequence_output()#[B, S, E]
     #output_layer shape is
     if is_training:
         output_layer = tf.keras.layers.Dropout(rate=0.1)(output_layer)#64x64x768
@@ -503,7 +503,7 @@ def create_model(bert_config, is_training, input_ids, mask,
 
     logits = hidden2tag(feature_concat,num_labels)#64x64x10
     # TODO test shape
-    logits = tf.reshape(logits,[-1,FLAGS.max_seq_length,num_labels])
+    logits = tf.reshape(logits,[-1,FLAGS.max_seq_length,num_labels])#64,64,10
     if FLAGS.crf:
         mask2len = tf.reduce_sum(mask,axis=1)
         loss, trans = crf_loss(logits,labels,mask,num_labels,mask2len)
@@ -511,7 +511,7 @@ def create_model(bert_config, is_training, input_ids, mask,
         return (loss, logits,predict)
 
     else:
-        loss,predict  = softmax_layer(logits, labels, num_labels, mask)
+        loss,predict  = softmax_layer(logits, labels, num_labels, mask)#[64, 64, 10], [64, 64]
 
         return (loss, logits, predict)
 
@@ -537,7 +537,7 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
                                                          feature2=feature2, feature3=feature3)
 
         else:
-            (total_loss, logits, predicts) = create_model(bert_config, is_training, input_ids,
+            (total_loss, logits, predicts) = create_model(bert_config, is_training, input_ids,#[1,], [64, 64, 10], [64, 64]
                                                           mask, segment_ids, label_ids, num_labels,
                                                           use_one_hot_embeddings, feature1=feature1,
                                                           feature2=feature2, feature3=feature3)
@@ -641,7 +641,7 @@ def main(_):
         raise ValueError("Task not found: %s" % (task_name))
     processor = processors[task_name]()
 
-    label_list = processor.get_labels()
+    label_list = processor.get_labels()#["[PAD]","ATTRIBUTIONCOMP", "BRANDCOMP", "Group_COMP", "KEYWORD_COMP", "Occasion_COMP", "Other","X","[CLS]","[SEP]"]
 
     tokenizer = tokenization.FullTokenizer(
         vocab_file=FLAGS.vocab_file, do_lower_case=FLAGS.do_lower_case)
